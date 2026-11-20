@@ -1,0 +1,30 @@
+{
+  "name": "shiva-raj-portfolio",
+  "version": "1.0.0",
+  "description": "Ultra-sleek modern developer portfolio built with React 18 and luxury obsidian/gold aesthetics, featuring a cinematic introductory video presentation before dashboard access.",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "portfolio",
+    "developer-portfolio",
+    "dark-mode",
+    "video-intro",
+    "glassmorphism",
+    "web-development"
+  ],
+  "author": "Shiva Raj",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.0"
+  }
+}
